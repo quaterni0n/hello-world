@@ -4,3 +4,5 @@ Honestly, when I think about coding, I am learning more when I let my intuition 
 I will be interacting more with the developer community in order to understand this space better.
 For sure, I will be a goood coder in next 1 year.
 That's the aim.
+
+Just trying to do more branching. It feels intuitive.
